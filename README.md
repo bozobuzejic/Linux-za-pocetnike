@@ -13,7 +13,11 @@ Većina prikazanih aktivnosti, postupaka i komandi je primenjena na kursu i za n
 Mnoge prikazane komande su pronađene u raznim tutorijalima nađenim na internetu (kopije prilagođene konkretnim primerima datim u dokumentima).
 
 
-Napomena: Unutar foldera Linux_kurs nalaze se pod-folderi poredjani po logickim celinama kao i fajl SADRŽAJ.md sa linkovima ka svakom direktorijumu i dokumentu ponaosob.
+Napomena: 
 
-Preporuka: Držati se datog redosleda.
+*Kreirati folder Linux-kurs i u njega smestiti sve snimljene foldere sa dokumentima nakon izvršenog download-a.  
+*Unutar foldera Linux_kurs naći će se pod-folderi poredjani po logickim celinama. 
+*U folder Linux-kurs snimiti i fajl SADRŽAJ.md koji sadrži linkove ka svakom direktorijumu i dokumentu ponaosob.
+
+*Preporuka: Držati se datog redosleda.
 
