@@ -1,4 +1,4 @@
- # Linux-za-početnike I deo
+ # Linux za početnike I deo
 
 Kurs za totalne početnike
 
