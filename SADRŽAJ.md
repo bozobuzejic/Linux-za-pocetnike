@@ -350,6 +350,19 @@ Sadržaj:
      
 ---
 
+- [RAZNI ALATI](20.Razni_alati)
+
+  - [QRcode](20.Razni_alati/1.QRcode.md)
+  - [Barcode](20.Razni_alati/2.Barcode.md)
+  - [PDFTOPPM](20.Razni_alati/3.PDFTOPPM.md)
+  - [Convert](20.Razni_alati/4.Convert.md)
+  - [Asciinema](20.Razni_alati/5.Asciinema.md)
+  - [Simplescreenrecorder](20.Razni_alati/6.Simplescreenrecorder.md)
+  - [VLC media player](20.Razni_alati/7.VLC.md)
+  - [FFMPEG](20.Razni_alati/8.FFMPEG.md)
+  
+  ---
+  
 Autor: Božo Buzejić, totalni početnik
  
 
