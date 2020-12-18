@@ -185,7 +185,6 @@ Sadržaj:
    - [Kernel dokumentacija](11.Kernel/5.kernel_dokumentacija.md)
    - [Kompajliranje nove verzije kernela](11.Kernel/6.kompajliranje_nove_verzije_kernela.md)
    - [Uklanjanje stare verzije kernela](11.Kernel/7.uklanjanje_stare_verzije_kernela.md)
-   - [Moduli](11.Kernel/1.moduli.md)
    
 ---
 
