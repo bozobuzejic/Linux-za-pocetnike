@@ -362,6 +362,7 @@ Sadržaj za GitHub:
   - [FFMPEG](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/8.FFMPEG.md)
   - [Pandoc](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/9.Pandoc.md)
   - [PXE boot server](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/10.PXE_boot_server.md)
+  - [Vagrant](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/11.Vagrant.md)
   
   ---
 Autor: [Božo Buzejić](https://github.com/bozobuzejic?tab=projects), totalni početnik
