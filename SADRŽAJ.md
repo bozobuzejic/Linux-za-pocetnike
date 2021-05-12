@@ -367,6 +367,7 @@ Sadržaj:
   - [Docker](20.Razni_alati/13.Docker.md)
   - [Minikube i Kubernetes](20.Razni_alati/14.Minikube_Kubernetes.md)
   
+  
   ---
 Autor: Božo Buzejić, totalni početnik
  
