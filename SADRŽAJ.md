@@ -365,6 +365,7 @@ Sadržaj:
   - [Vagrant](20.Razni_alati/11.Vagrant.md)
   - [Ansible](20.Razni_alati/12.Ansible.md)
   - [Docker](20.Razni_alati/13.Docker.md)
+  - [Minikube i Kubernetes](20.Razni_alati/14.Minikube_Kubernetes.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
