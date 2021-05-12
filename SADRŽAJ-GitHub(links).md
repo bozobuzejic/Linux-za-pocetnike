@@ -365,6 +365,7 @@ Sadržaj za GitHub:
   - [Vagrant](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/11.Vagrant.md)
   - [Ansible](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/12.Ansible.md)
   - [Docker](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/13.Docker.md)
+  - [Minikube i kubernetes](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/14.Minikube_Kubernetes.md)
   
   ---
 Autor: [Božo Buzejić](https://github.com/bozobuzejic?tab=projects), totalni početnik
