@@ -367,6 +367,7 @@ Sadržaj:
   - [Docker](20.Razni_alati/13.Docker.md)
   - [Minikube i Kubernetes](20.Razni_alati/14.Minikube_Kubernetes.md)
   - [Proxmox](20.Razni_alati/15.Proxmox.md)
+  - [Git i GitHub](20.Razni_alati/16.Git_GitHub.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
