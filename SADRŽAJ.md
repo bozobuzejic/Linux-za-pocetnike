@@ -368,6 +368,8 @@ Sadržaj:
   - [Minikube i Kubernetes](20.Razni_alati/14.Minikube_Kubernetes.md)
   - [Proxmox](20.Razni_alati/15.Proxmox.md)
   - [Git i GitHub](20.Razni_alati/16.Git_GitHub.md)
+  - [Cloud-Init i Cloud Images](20.Razni_alati/17.Cloud-Init_i_Cloud_Images.md)
+  - [LXC-LXD](20.Razni_alati/18.LXC-LXD.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
