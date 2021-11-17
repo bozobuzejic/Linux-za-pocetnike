@@ -368,6 +368,8 @@ Sadržaj za GitHub:
   - [Minikube i Kubernetes](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/14.Minikube_Kubernetes.md)
   - [Proxmox](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/15.Proxmox.md)
   - [Git i GitHub](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/16.Git_GitHub.md)
+  - [Cloud-Init i Cloud Images](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/17.Cloud-Init_i_Cloud_Images.md)
+  - [LXC-LXD](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/18.LXC-LXD.md)
   
   ---
 Autor: [Božo Buzejić](https://github.com/bozobuzejic?tab=projects), totalni početnik
