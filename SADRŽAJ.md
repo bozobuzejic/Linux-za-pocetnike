@@ -370,6 +370,7 @@ Sadržaj:
   - [Git i GitHub](20.Razni_alati/16.Git_GitHub.md)
   - [Cloud-Init i Cloud Images](20.Razni_alati/17.Cloud-Init_i_Cloud_Images.md)
   - [LXC-LXD](20.Razni_alati/18.LXC-LXD.md)
+  - [Terraform](20.Razni_alati/19.Terraform.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
