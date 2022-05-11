@@ -238,6 +238,7 @@ Sadržaj za GitHub:
    - [Serveo](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/4.Serveo.md)
    - [Ngrok](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/5.ngrok.md)
    - [Ssh tunel port forward](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/6.ssh_tunel_port_forward.md)
+   - [Bore tunel](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/2.Prosleđivanje_portova/7.bore.md)
    
 - [Programi za povezivanje](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/3.Programi_za_povezivanje)
    - [Ssh](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/13.Mreža/3.Programi_za_povezivanje/1.ssh.md)
