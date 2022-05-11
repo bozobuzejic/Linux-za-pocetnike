@@ -238,6 +238,7 @@ Sadržaj:
    - [Serveo](13.Mreža/2.Prosleđivanje_portova/4.Serveo.md)
    - [Ngrok](13.Mreža/2.Prosleđivanje_portova/5.ngrok.md)
    - [Ssh tunel port forward](13.Mreža/2.Prosleđivanje_portova/6.ssh_tunel_port_forward.md)
+   - [Bore tunel](13.Mreža/2.Prosleđivanje_portova/7.bore.md)
    
 - [Programi za povezivanje](13.Mreža/3.Programi_za_povezivanje)
    - [Ssh](13.Mreža/3.Programi_za_povezivanje/1.ssh.md)
