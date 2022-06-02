@@ -372,6 +372,7 @@ Sadržaj za GitHub:
   - [Cloud-Init i Cloud Images](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/17.Cloud-Init_i_Cloud_Images.md)
   - [LXC-LXD](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/18.LXC-LXD.md)
   - [Terraform](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/19.Terraform.md)
+  - [Minio](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/20.Minio.md)
   
   ---
 Autor: [Božo Buzejić](https://github.com/bozobuzejic?tab=projects), totalni početnik
