@@ -200,6 +200,7 @@ Sadržaj:
   - [Enkripcija](12.Bezbednost/7.cryptsetup-kriptovanje_particije.md)
   - [Montiranje kriptovane particije](12.Bezbednost/8.montiranje_kripovanog_diska.md)
   - [Chroot jail](12.Bezbednost/9.chroot_jail.md)
+  - [Letsencrypt-Certbot](12.Bezbednost/10.letsencrypt-certbot.md)
   
 ---
 
