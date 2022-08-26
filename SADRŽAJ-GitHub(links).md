@@ -201,6 +201,7 @@ Sadržaj za GitHub:
   - [Montiranje kriptovane particije](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/12.Bezbednost/8.montiranje_kripovanog_diska.md)
   - [Chroot jail](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/12.Bezbednost/9.chroot_jail.md)
   - [Letsencrypt-Certbot](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/12.Bezbednost/10.letsencrypt-certbot.md)
+  - [GPG-crypt-decrypt](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/12.Bezbednost/11.GPG-crypt-decrypt.md)
   
 ---
 
