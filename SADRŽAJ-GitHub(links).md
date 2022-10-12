@@ -159,7 +159,7 @@ Sadržaj za GitHub:
 
     - [Bash skripting](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/9.Bash_skripte/1.Bash_kripting.md)
     - [Specijalni karakteri](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/9.Bash_skripte/2.Specijalni_karakteri.md) 
-    
+    - [PATH](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/9.Bash_skripte/3.PATH.md)
  ---
 
 - [UPRAVLJANJE DISKOVIMA](https://github.com/bozobuzejic/Linux-za-pocetnike-II-deo/blob/main/Linux-kurs%20II%20deo/10.Upravljanje_diskovima) 
