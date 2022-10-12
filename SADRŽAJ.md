@@ -158,7 +158,8 @@ Sadržaj:
 - [BASH SKRIPTE](9.Bash_skripte) 
 
     - [Bash skripting](9.Bash_skripte/1.Bash_kripting.md)
-    - [Specijalni karakteri](9.Bash_skripte/2.Specijalni_karakteri.md) 
+    - [Specijalni karakteri](9.Bash_skripte/2.Specijalni_karakteri.md)
+    - [PATH](9.Bash_skripte/3.PATH.md) 
     
  ---
 
