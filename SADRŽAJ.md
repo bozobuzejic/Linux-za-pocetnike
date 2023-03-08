@@ -377,6 +377,7 @@ Sadržaj:
   - [Terraform](20.Razni_alati/19.Terraform.md)
   - [Minio](20.Razni_alati/20.Minio.md)
   - [Webmin](20.Razni_alati/21.Webmin.md)
+  - [Zram](20.Razni_alati/22.Zram.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
