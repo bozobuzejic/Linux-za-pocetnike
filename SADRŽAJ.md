@@ -378,6 +378,7 @@ Sadržaj:
   - [Minio](20.Razni_alati/20.Minio.md)
   - [Webmin](20.Razni_alati/21.Webmin.md)
   - [Zram](20.Razni_alati/22.Zram.md)
+  - [Fail2ban](20.Razni_alati/23.Fail2ban.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
