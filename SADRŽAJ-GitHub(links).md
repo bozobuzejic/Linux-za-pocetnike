@@ -377,6 +377,7 @@ Sadržaj za GitHub:
   - [Minio](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/20.Minio.md)
   - [Webmin](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/21.Webmin.md)
   - [Zram](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/22.Zram.md)
+  - [Fail2ban](https://github.com/bozobuzejic/Linux-za-pocetnike-IV-deo/tree/main/Linux-kurs%20IV%20deo/20.Razni_alati/23.Fail2ban.md)
  
   ---
 Autor: [Božo Buzejić](https://github.com/bozobuzejic?tab=projects), totalni početnik
