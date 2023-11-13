@@ -379,6 +379,7 @@ Sadržaj:
   - [Webmin](20.Razni_alati/21.Webmin.md)
   - [Zram](20.Razni_alati/22.Zram.md)
   - [Fail2ban](20.Razni_alati/23.Fail2ban.md)
+  - [Wakeonlan](20.Razni_alati/24.Wakeonlan.md)
   
   ---
 Autor: Božo Buzejić, totalni početnik
