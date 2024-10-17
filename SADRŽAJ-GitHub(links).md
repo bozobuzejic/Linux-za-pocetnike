@@ -307,6 +307,7 @@ Sadržaj za GitHub:
   - [OneDrive](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/16.Clouds/5.OneDrive.md)
   - [Mega](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/16.Clouds/6.Mega.md)
   - [ownCloud](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/16.Clouds/7.ownCloud.md)
+  - [rclone](https://github.com/bozobuzejic/Linux-za-pocetnike-III-deo/tree/main/Linux-kurs%20III%20deo/16.Clouds/8.rclone.md)
   
 ---
 
