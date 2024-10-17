@@ -308,6 +308,7 @@ Sadržaj:
   - [OneDrive](16.Clouds/5.OneDrive.md)
   - [Mega](16.Clouds/6.Mega.md)
   - [ownCloud](16.Clouds/7.ownCloud.md)
+  - [rclone](16.Clouds/8.rclone.md)
   
 ---
 
